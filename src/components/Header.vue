@@ -82,7 +82,7 @@
 
       <img
         class="header-content__avatar"
-        src="images/image-avatar.png"
+        src="/images/image-avatar.png"
         alt="Imagem de perfil"
       />
     </div>

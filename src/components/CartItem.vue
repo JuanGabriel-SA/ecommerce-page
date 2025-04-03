@@ -1,6 +1,6 @@
 <template>
   <div class="cart-item">
-    <img src="images/image-product-1-thumbnail.jpg" alt="Thumbnail do carrinho" class="cart-item__thumb" />
+    <img src="/images/image-product-1-thumbnail.jpg" alt="Thumbnail do carrinho" class="cart-item__thumb" />
     <div class="cart-item__info">
       <h1>Fall Limited Edition Sneakers</h1>
       <p>
