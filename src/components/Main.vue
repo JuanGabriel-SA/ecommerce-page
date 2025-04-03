@@ -447,12 +447,12 @@ import Button from "./Button.vue";
 import Modal from "./Modal.vue";
 import { useWindowSize } from "@vueuse/core";
 
-const currentImage = ref("/src/assets/images/image-product-1.jpg");
+const currentImage = ref("images/image-product-1.jpg");
 const images = ref([
-  "/src/assets/images/image-product-1-thumbnail.jpg",
-  "/src/assets/images/image-product-2-thumbnail.jpg",
-  "/src/assets/images/image-product-3-thumbnail.jpg",
-  "/src/assets/images/image-product-4-thumbnail.jpg",
+  "images/image-product-1-thumbnail.jpg",
+  "images/image-product-2-thumbnail.jpg",
+  "images/image-product-3-thumbnail.jpg",
+  "images/image-product-4-thumbnail.jpg",
 ]);
 
 const cartStore = useCartStore();
