@@ -16,6 +16,7 @@ Uma tela responsiva de e-commerce desenvolvida com Vue.js e Sass.
 - Vue.js
 - Sass (SCSS)
 - HTML5 & CSS3
+- Pinia
 - Responsividade com Flexbox e Grid
 
 ## 📂 Estrutura do Projeto
