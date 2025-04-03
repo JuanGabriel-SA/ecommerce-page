@@ -1,29 +1,57 @@
-# my-app
+# 🛒 E-commerce Page
 
-This template should help get you started developing with Vue 3 in Vite.
+Uma tela responsiva de e-commerce desenvolvida com Vue.js e Sass.
 
-## Recommended IDE Setup
+## 🌍 Demo
+🔗 [Acesse o projeto online](https://ecommerce-page-alpha.vercel.app/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🖼️ Preview
+### Desktop:
+![Preview Desktop](public/preview-desktop.png)
 
-## Customize configuration
+### Mobile:
+![Preview Mobile](public/preview-mobile.png)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🛠️ Tecnologias Utilizadas
+- Vue.js
+- Sass (SCSS)
+- HTML5 & CSS3
+- Responsividade com Flexbox e Grid
 
-## Project Setup
-
-```sh
-npm install
+## 📂 Estrutura do Projeto
+```
+/public
+  ├── images/
+  ├── preview-desktop.png
+  ├── preview-mobile.png
+/src
+  ├── components/
+  ├── assets/
+  ├── App.vue
+  ├── main.js
 ```
 
-### Compile and Hot-Reload for Development
+## 🚀 Como Rodar o Projeto
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+2. Acesse a pasta do projeto:
+   ```sh
+   cd my-app
+   ```
+3. Instale as dependências:
+   ```sh
+   npm install
+   ```
+4. Execute o projeto:
+   ```sh
+   npm run dev
+   ```
+5. Acesse no navegador:
+   ```sh
+   http://localhost:5173
+   ```
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## 📜 Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo!
