@@ -1,0 +1,15 @@
+:root {
+    /* Primary Colors */
+    --col-prim-orng: hsl(26, 100%, 55%);
+    --col-prim-pale-orng: hsl(25, 100%, 94%);
+    
+    /* Neutral Colors */
+    --col-neutral-dk-blu: hsl(220, 13%, 13%);
+    --col-neutral-dk-gry-blu: hsl(219, 9%, 45%);
+    --col-neutral-gry-blu: hsl(220, 14%, 75%);
+    --col-neutral-lt-gry-blu: hsl(223, 64%, 98%);
+    --col-neutral-white: hsl(0, 0%, 100%);
+    --col-neutral-blk-lbx: hsla(0, 0%, 0%, 0.75);
+
+    --d-transition: ease-in-out 100ms;
+  }
